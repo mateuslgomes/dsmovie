@@ -13,7 +13,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "tb_movie")
 public class Movie {
-	
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
@@ -79,5 +79,4 @@ public class Movie {
 	public Set<Score> getScores() {
 		return scores;
 	}
-	
 }
