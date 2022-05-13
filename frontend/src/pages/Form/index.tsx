@@ -9,4 +9,5 @@ function Form() {
         <FormCard movieId={`${params.movieId}`} />
     );
 }
+
 export default Form;
