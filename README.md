@@ -3,7 +3,7 @@
 
 #### Principais tecnologias utilizadas:
 * Java - Spring Boot
-* Spring 
+* React
 * MySQL
 * HTML
 * CSS
